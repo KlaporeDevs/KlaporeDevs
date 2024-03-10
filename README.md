@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**KlaporeDevs/KlaporeDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<
+<!--KlaporeDevs/KlaporeDevs is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:Janrich Natavio Verbo
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: I'm Happy
--->
+>
