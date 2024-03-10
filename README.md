@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - <p>How to reach Me Email: verbojanrich20@gmail.com</p>
 - <p>Pronouns:He/Him</p>
 - <p>Fun Facts:I'm Happy</p>
-- <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64c38d78e244f2be6a48fd83?variant=dark&roadmaps=backend%2Cpython%2Cjava" alt="roadmap.sh"/></a>
+- <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64c38d78e244f2be6a48fd83?variant=dark" alt="roadmap.sh"/></a>
