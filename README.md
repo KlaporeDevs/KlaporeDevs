@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - <p>Pronouns:He/Him</p>
 - <p>Fun Facts:I'm Happy</p>
 - <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64c38d78e244f2be6a48fd83?variant=dark&roadmaps=python%2Cjava%2Cbackend%2Ccyber-security" alt="roadmap.sh"/></a>
+- <img src="https://tryhackme-badges.s3.amazonaws.com/KlaporeDevs.png" alt="TryHackMe">
