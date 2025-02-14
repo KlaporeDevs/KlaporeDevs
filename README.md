@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- <p>I’m currently working on Second Project</p>
+- <p>I’m currently working on A Projects.</p>
 - <p>I’m currently learning Java, Backend Development, Cyber Security, Python</p>
 - <p>I’m looking to collaborate on Projects</p>
 - <p>I’m looking for help with Coding Improvements</p>
